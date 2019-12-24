@@ -1,4 +1,4 @@
-package Week1.hw.generics;
+package com.smartosc.training.Tran_Thanh.Week1.hw.generics;
 
 public class DemoGeneric {
 	public static void main(String []args) {
