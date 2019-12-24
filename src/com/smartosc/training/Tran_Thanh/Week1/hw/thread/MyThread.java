@@ -1,4 +1,4 @@
-package Week1.hw.thread;
+package com.smartosc.training.Tran_Thanh.Week1.hw.thread;
 
 public class MyThread implements Runnable {
 

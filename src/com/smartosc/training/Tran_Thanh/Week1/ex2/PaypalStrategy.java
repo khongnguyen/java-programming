@@ -1,4 +1,4 @@
-package Week1.ex2;
+package com.smartosc.training.Tran_Thanh.Week1.ex2;
 
 public class PaypalStrategy implements PaymentStrategy{
 	private String email;

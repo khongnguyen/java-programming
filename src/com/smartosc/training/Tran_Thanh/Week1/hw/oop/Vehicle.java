@@ -1,4 +1,4 @@
-package Week1.hw.oop;
+package com.smartosc.training.Tran_Thanh.Week1.hw.oop;
 
 public class Vehicle {
 	protected String name;
