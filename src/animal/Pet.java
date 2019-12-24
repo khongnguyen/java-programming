@@ -3,16 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.aptech.aprotraln;
+package animal;
 
 /**
  *
- * @author Lam Chuot
+ * @author Administrator
  */
-public interface IStudent {
-
-    public void input();
-
-    public void display();
-
+public interface Pet {
+    String getName();
+    void setName(String name);
+    void play();
 }
