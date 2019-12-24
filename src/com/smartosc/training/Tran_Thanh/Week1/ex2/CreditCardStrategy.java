@@ -1,4 +1,4 @@
-package Week1.ex2;
+package com.smartosc.training.Tran_Thanh.Week1.ex2;
 
 public class CreditCardStrategy implements PaymentStrategy{
 	private String name;
