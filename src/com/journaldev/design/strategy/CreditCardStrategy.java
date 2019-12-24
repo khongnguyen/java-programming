@@ -15,6 +15,15 @@ public class CreditCardStrategy implements PaymentStrategy {
 
 	@Override
 	public void pay(int price) {
+		boolean connection = connect();
+		if (connection) {
+			// subtract from balance
+		}
 	}
 
+	public boolean connect() {
+		boolean connected = false;
+		// connect to bank
+		return connected;
+	}
 }
